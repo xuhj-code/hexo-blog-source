@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 小红叔de博客
+subtitle: "计算机类岗位备考全记录"
+description: "江苏事业编计算机岗位备考"
 keywords:
-author: John Doe
-language: en
+author: Haru kong
+language: zh-CN   # 默认中文
+# language: en
 timezone: ''
 
 # URL
@@ -106,3 +107,8 @@ deploy:
   type: git
   repo: git@github.com:xuhj-code/xuhj-code.github.io.git
   branch: main
+
+# 文章分类显示
+category_generator:
+  path: categories/:category/
+
