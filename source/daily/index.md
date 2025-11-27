@@ -13,8 +13,11 @@ date: 2025-11-20 12:07:26
 
 下面是 **Daily** 分类下的文章：
 
-<ul>
-  {% for post in site.categories.Daily %}
+
+{% for post in site.categories.Daily %}
+  <ul>
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+  </ul>
+{% else %}
+  <p>没有找到相关文章。</p>
+{% endfor %}

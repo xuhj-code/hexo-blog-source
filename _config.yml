@@ -64,6 +64,8 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
+category_generator:
+  path: categories/:category/  # 分类路径设置  
 
 # Category & Tag
 default_category: uncategorized
@@ -107,8 +109,3 @@ deploy:
   type: git
   repo: git@github.com:xuhj-code/xuhj-code.github.io.git
   branch: main
-
-# 文章分类显示
-category_generator:
-  path: categories/:category/
-
