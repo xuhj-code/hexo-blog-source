@@ -2,7 +2,7 @@
 
 title: 资料分析
 date: 2025-12-20 21:10:00
-permalink: /categories/资料分析/
+permalink: /analysis/
 ----------------------------
 
 ## 一、速算与增长体系
