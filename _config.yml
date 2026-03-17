@@ -109,3 +109,13 @@ deploy:
   type: git
   repo: git@github.com:xuhj-code/xuhj-code.github.io.git
   branch: main
+
+# mermaid chart
+mermaid:
+  enable: true
+  version: "10.6.1" # 推荐稳定版
+  theme: "default" # 主题：default/dark/forest/neutral
+  options: # 全局配置（可选）
+    flowchart:
+      useMaxWidth: true
+    securityLevel: 'loose'
