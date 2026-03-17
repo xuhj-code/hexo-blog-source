@@ -119,3 +119,10 @@ mermaid:
     flowchart:
       useMaxWidth: true
     securityLevel: 'loose'
+
+markmap:
+  enable: true
+  colorFreezeLevel: false
+  lineHeight: 1.2
+  maxWidth: 800
+  duration: 200    

@@ -10,20 +10,20 @@ permalink: /professional/
 <tr>
 <td style="vertical-align:top; width:50%">
 
-### [计算机硬件](/tags/计算机硬件/)
+### [计算机硬件](/categories/专业知识/计算机硬件/)
 * 基础概念
 * 常见设备
 
-### [计算机操作系统](/tags/计算机操作系统/)
+### [计算机操作系统](/categories/专业知识/计算机操作系统/)
 * 计算机操作系统
 
 </td>
 <td style="vertical-align:top; width:50%">
 
-### [计算机新技术](/tags/计算机新技术/)
+### [计算机新技术](/categories/专业知识/计算机新技术/)
 * 计算机新技术
 
-### [计算机信息安全](/tags/计算机信息安全/)
+### [计算机信息安全](/categories/专业知识/计算机信息安全/)
 * 关键技术及应用
 
 </td>
@@ -38,7 +38,7 @@ permalink: /professional/
 <tr>
 <td style="vertical-align:top; width:50%">
 
-### [计算机网络](/tags/计算机网络/)
+### [计算机网络](/categories/专业知识/计算机网络/)
 * 基础概念
 * 体系结构
 * 子网划分
@@ -46,7 +46,7 @@ permalink: /professional/
 </td>
 <td style="vertical-align:top; width:50%">
 
-### [计算机网络应用](/tags/计算机网络-相关应用/)
+### [计算机网络应用](/categories/专业知识/计算机网络-相关应用/)
 * 相关应用
 
 </td>
@@ -61,11 +61,11 @@ permalink: /professional/
 <tr>
 <td style="vertical-align:top; width:50%">
 
-### [程序设计](/tags/程序设计/)
+### [程序设计](/categories/专业知识/程序设计/)
 * 基础概念
 * 算法思想
 
-### [数据结构](/tags/数据结构/)
+### [数据结构](/categories/专业知识/数据结构/)
 * 表
 * 排序
 * 树
@@ -86,7 +86,7 @@ permalink: /professional/
 <tr>
 <td style="vertical-align:top; width:50%">
 
-### [软件工程](/tags/软件工程/)
+### [软件工程](/categories/专业知识/软件工程/)
 * 基础概念
 * 面向对象
 * 设计原则
@@ -95,7 +95,7 @@ permalink: /professional/
 </td>
 <td style="vertical-align:top; width:50%">
 
-### [软件工程测试与维护](/tags/软件工程-测试与维护/)
+### [软件工程测试与维护](/categories/专业知识/软件工程/测试与维护/)
 * 测试与维护
 
 </td>
@@ -110,7 +110,7 @@ permalink: /professional/
 <tr>
 <td style="vertical-align:top; width:50%">
 
-### [数据库应用](/tags/数据库应用/)
+### [数据库应用](/categories/专业知识/数据库应用/)
 * 基础概念
 * 概念模型（ER图）
 * 关系代数
@@ -119,7 +119,7 @@ permalink: /professional/
 </td>
 <td style="vertical-align:top; width:50%">
 
-### [数据库应用与优化](/tags/数据库应用-性能优化/)
+### [数据库应用与优化](/categories/专业知识/数据库应用-性能优化/)
 * 常见SQL语句
 * 大数据
 * 性能优化
@@ -136,7 +136,7 @@ permalink: /professional/
 <tr>
 <td style="vertical-align:top; width:50%">
 
-### [多媒体技术](/tags/多媒体技术/)
+### [多媒体技术](/categories/专业知识/多媒体技术/)
 * 基础概念
 * 音频与图像
 

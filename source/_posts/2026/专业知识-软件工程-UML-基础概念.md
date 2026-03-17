@@ -1,5 +1,5 @@
 ---
-title: 软件工程-UML
+title: 软件工程-UML-基础概念
 date: 2026-03-08 01:20:05
 categories: 
   - 专业知识
@@ -9,6 +9,17 @@ tags:
   - UML
   - 基础概念
 ---
+
+{% markmap %}
+- Hexo Next 主题
+  - 支持 Mermaid
+  - 支持 markmap 思维导图
+  - 全局配置
+- 思维导图
+  - 可缩放
+  - 可拖拽
+  - 超美观
+{% endmarkmap %}
 
 # UML 统一建模语言核心知识点解析
 ## 一、UML 概述
@@ -61,3 +72,5 @@ classDiagram
     汽车 *-- 轮胎 : 组合
     汽车 o-- 车门 : 聚合
 ```
+
+
