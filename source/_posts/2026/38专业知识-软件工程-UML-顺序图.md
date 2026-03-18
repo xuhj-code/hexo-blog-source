@@ -1,13 +1,14 @@
 ---
-title: 软件工程-UML-状态图
+title: 软件工程-UML-顺序图
 date: 2026-03-08 01:20:05
 categories: 
   - 专业知识
   - 软件工程
   - UML
 tags:
+  - 软件工程
   - UML
-  - 状态图
+  - 循序图
 ---
 
 {% markmap %}

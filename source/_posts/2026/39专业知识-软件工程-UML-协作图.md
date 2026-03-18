@@ -6,6 +6,7 @@ categories:
   - 软件工程
   - UML
 tags:
+  - 软件工程
   - UML
   - 协作图
 ---
