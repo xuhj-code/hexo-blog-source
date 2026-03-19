@@ -126,3 +126,8 @@ markmap:
   lineHeight: 1.2
   maxWidth: 800
   duration: 200    
+
+mathjax:
+  enable: true
+  single_dollar: false
+  config: TeX-AMS-MML_HTMLorMML
