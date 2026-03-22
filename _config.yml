@@ -110,6 +110,12 @@ deploy:
   repo: git@github.com:xuhj-code/xuhj-code.github.io.git
   branch: main
 
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
 # mermaid chart
 mermaid:
   enable: true
